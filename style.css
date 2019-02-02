@@ -1,0 +1,112 @@
+CSS
+
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa': 100,200,300,400,500,600,700,800,900!);
+/*----------------------------------------------------font*/
+header {
+    background-color: #ffffff;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    position: center;
+}
+.logo {
+    background-position: center;
+    min-height: 50px;
+    min-width: 50px;
+    height: auto;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding-left: 33%;
+    display: center;
+}
+.list-inline {
+    margin: 0px;
+    padding: 10px;
+}
+.home {
+    margin: 50px;
+    color: #38442C;
+    font-size: 20px;
+    letter-spacing: 4px;
+    font-family: Comfortaa, sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
+.service {
+    margin: 50px;
+    color: #38442C;
+    font-size: 20px;
+    letter-spacing: 4px;
+    font-family: Comfortaa, sans-serif;
+    text-decoration: none;
+}
+.gallery {
+    margin: 50px;
+    color: #38442C;
+    font-size: 20px;
+    letter-spacing: 4px;
+    font-family: Comfortaa, sans-serif;
+    text-decoration: none;
+}
+.contact {
+    margin: 50px;
+    color: #38442C;
+    font-size: 20px;
+    letter-spacing: 4px;
+    font-family: Comfortaa, sans-serif;
+    text-decoration: none;
+}
+.name {
+    margin: 50px;
+    color: #38442C;
+    font-size: 50px;
+    letter-spacing: 4px;
+    font-family: Comfortaa, sans-serif;
+}
+.clearfix a {
+    text-decoration: none;
+}
+/*----------------------------------------------------header*/
+footer {
+    background-color: #cfdfd2;
+    display: block;
+    padding: 5px;
+    margin: 10px;
+    min-height: 120px;
+}
+.footer-about {
+    font-family: Comfortaa, sans-serif;
+}
+.footer-contact {
+    font-family: Comfortaa, sans-serif;
+}
+.footer-cotact a {
+    color: #899766;
+}
+.footer-social-links {
+    font-family: sans-serif;
+}
+.social-links {
+    padding-bottom: 15px;
+}
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background-color: #ffffff;
+}
+.fa:hover {
+    background: #899766;
+/*----------------------------------------------------footer*/
+/*----------------------------------------------------section*/
+/*----------------------------------------------------home*/
+/*----------------------------------------------------service*/
+/*----------------------------------------------------gallery*/
+/*----------------------------------------------------contact*/
+
