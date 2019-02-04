@@ -26,7 +26,7 @@ header {
 }
 .home {
     margin: 50px;
-    color: #38442C;
+    color: #768367;
     font-size: 20px;
     letter-spacing: 4px;
     font-family: Comfortaa, sans-serif;
@@ -69,43 +69,36 @@ header {
 }
 /*----------------------------------------------------header*/
 footer {
-    background-color: #cfdfd2;
+    background-color: #809083;
     display: block;
     padding: 5px;
-    margin: 10px;
+    margin: 0;
     min-height: 120px;
 }
 .footer-about {
     font-family: Comfortaa, sans-serif;
+    color: #efeae1;
 }
 .footer-contact {
     font-family: Comfortaa, sans-serif;
 }
-.footer-cotact a {
+.footer-contact a {
     color: #899766;
 }
-.footer-social-links {
-    font-family: sans-serif;
-}
-.social-links {
-    padding-bottom: 15px;
-}
-.social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 10px;
-    border-radius: 50%;
-    font-size: 13px;
-    line-height: 7px;
-    text-align: center;
-    color: #fafafa;
-    background-color: #ffffff;
-}
-.fa:hover {
-    background: #899766;
+
 /*----------------------------------------------------footer*/
+
+section {
+    background-color: #efeae1;
+    padding: 0;
+    margin: 0;
+}
 /*----------------------------------------------------section*/
 /*----------------------------------------------------home*/
+
+section p {
+    padding: 5px;
+}
 /*----------------------------------------------------service*/
 /*----------------------------------------------------gallery*/
 /*----------------------------------------------------contact*/
