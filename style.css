@@ -92,9 +92,10 @@ footer {
 }
 .footer-contact {
     font-family: Comfortaa, sans-serif;
+    color: #efeae1;
 }
 .footer-contact a {
-    color: #899766;
+    color: #cfdfd2;
 }
 
 /*----------------------------------------------------footer*/
@@ -106,8 +107,8 @@ section {
 }
 /*----------------------------------------------------section*/
 /*----------------------------------------------------home*/
-
-section p {
+.container-fluid-section p {
+    text-align: center;
     padding: 5px;
 }
 /*----------------------------------------------------service*/
