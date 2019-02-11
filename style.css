@@ -1,15 +1,19 @@
 CSS
 
-
 @import url('https://fonts.googleapis.com/css?family=Comfortaa': 100,200,300,400,500,600,700,800,900!);
+
 /*----------------------------------------------------font*/
+
 header {
     background-color: #ffffff;
+    overflow: auto;
     display: block;
     padding: 10px;
     margin: 10px;
     position: absolute;
+
 }
+
 .logo {
     background-position: center;
     min-height: 50px;
@@ -19,10 +23,13 @@ header {
     margin: 0;
     padding-left: 33%;
     display: center;
+
 }
+
 .list-inline {
     margin: 0px;
     padding: 10px;
+
 }
 
 .home {
@@ -33,52 +40,98 @@ header {
     font-family: Comfortaa, sans-serif;
     text-align: center;
     text-decoration: none;
-}
-.service {
-    margin: 50px;
-    color: #38442C;
-    font-size: 20px;
-    letter-spacing: 4px;
-    font-family: Comfortaa, sans-serif;
-    text-decoration: none;
-    text-align: center;
-}
-.gallery {
-    margin: 50px;
-    color: #38442C;
-    font-size: 20px;
-    letter-spacing: 4px;
-    font-family: Comfortaa, sans-serif;
-    text-decoration: none;
-    text-align: center;
-}
-.contact {
-    margin: 50px;
-    color: #38442C;
-    font-size: 20px;
-    letter-spacing: 4px;
-    font-family: Comfortaa, sans-serif;
-    text-decoration: none;
-    text-align: center;
-}
-.name {
-    margin: 50px;
-    color: #38442C;
-    font-size: 50px;
-    letter-spacing: 4px;
-    font-family: Comfortaa, sans-serif;
-}
-.clearfix a {
-    text-decoration: none;
+
 }
 
-.hvr-reveal {
-    height: 50px;
-    width: 200px;
+.service {
+
+    margin: 50px;
+
+    color: #38442C;
+
+    font-size: 20px;
+
+    letter-spacing: 4px;
+
+    font-family: Comfortaa, sans-serif;
+
+    text-decoration: none;
+
     text-align: center;
-    padding-bottom: 5px;
+
 }
+
+.gallery {
+
+    margin: 50px;
+
+    color: #38442C;
+
+    font-size: 20px;
+
+    letter-spacing: 4px;
+
+    font-family: Comfortaa, sans-serif;
+
+    text-decoration: none;
+
+    text-align: center;
+
+}
+
+.contact {
+
+    margin: 50px;
+
+    color: #38442C;
+
+    font-size: 20px;
+
+    letter-spacing: 4px;
+
+    font-family: Comfortaa, sans-serif;
+
+    text-decoration: none;
+
+    text-align: center;
+
+}
+
+.name {
+
+    margin: 50px;
+
+    color: #38442C;
+
+    font-size: 50px;
+
+    letter-spacing: 4px;
+
+    font-family: Comfortaa, sans-serif;
+
+}
+
+.clearfix a {
+
+    text-decoration: none;
+
+}
+
+
+
+.hvr-reveal {
+
+    height: 50px;
+      width: 200px;
+
+    text-align: center;
+
+    padding-bottom: 5px;
+
+}
+
 /*----------------------------------------------------header*/
+
 footer {
     background-color: #97A99B;
     display: block;
@@ -86,14 +139,17 @@ footer {
     margin: 0;
     min-height: 120px;
 }
+
 .footer-about {
     font-family: Comfortaa, sans-serif;
     color: #ffffff;
 }
+
 .footer-contact {
     font-family: Comfortaa, sans-serif;
     color: #ffffff;
 }
+
 .footer-contact a {
     color: #cfdfd2;
 }
@@ -104,20 +160,37 @@ section {
     background-color: #ffffff;
     padding: 0;
     margin: 0;
+
 }
+
 /*----------------------------------------------------section*/
+
 /*----------------------------------------------------home*/
+
 .container-fluid-section p {
     text-align: center;
     padding: 5px;
 }
 
 .img {
+
     max-height: 50%;
+
     background-repeat: no-repeat;
+
     background-position: right;
+
 }
+
 /*----------------------------------------------------service*/
+
 /*----------------------------------------------------gallery*/
+
+.container-fluid-section {
+    padding: 50px;
+    text-align: center;
+}
+
+
 /*----------------------------------------------------contact*/
 
