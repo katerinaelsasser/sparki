@@ -13,6 +13,9 @@ header {
     position: absolute;
 
 }
+ .container-fluid-header {
+     text-align: center;
+ }
 
 .logo {
     background-position: center;
@@ -21,7 +24,7 @@ header {
     height: auto;
     background-repeat: no-repeat;
     margin: 0;
-    padding-left: 33%;
+    text-align: center;
     display: center;
 
 }
@@ -112,20 +115,14 @@ header {
 }
 
 .clearfix a {
-
     text-decoration: none;
-
 }
-
-
 
 .hvr-reveal {
 
     height: 50px;
-      width: 200px;
-
+    width: 200px;
     text-align: center;
-
     padding-bottom: 5px;
 
 }
@@ -151,7 +148,16 @@ footer {
 }
 
 .footer-contact a {
-    color: #cfdfd2;
+    color: #2c3021;
+}
+
+.navigation {
+    font-family: Comfortaa, sans-serif;
+    padding: 15px;
+    text-align: center;
+    color: #2c3021;
+    font-size: 20px;
+    
 }
 
 /*----------------------------------------------------footer*/
@@ -173,13 +179,9 @@ section {
 }
 
 .img {
-
     max-height: 50%;
-
     background-repeat: no-repeat;
-
     background-position: right;
-
 }
 
 /*----------------------------------------------------service*/
@@ -188,9 +190,13 @@ section {
 
 .container-fluid-section {
     padding: 50px;
-    text-align: center;
+    text-align: right;
 }
 
+.container-fluid-section p {
+    padding: 5px;
+    text-align: right;
+}
 
 /*----------------------------------------------------contact*/
 
