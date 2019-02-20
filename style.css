@@ -131,9 +131,8 @@ header {
 
 footer {
     background-color: #97A99B;
-    display: block;
-    padding: 5px;
-    margin: 0;
+    display: inline-block;
+    margin: auto;
     min-height: 120px;
 }
 
@@ -178,10 +177,10 @@ section {
     padding: 5px;
 }
 
-.img {
-    max-height: 50%;
+.service-1 {
+    height: 20%;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
 }
 
 /*----------------------------------------------------service*/
@@ -189,7 +188,7 @@ section {
 /*----------------------------------------------------gallery*/
 
 .container-fluid-section {
-    padding: 50px;
+    padding: 100px;
     text-align: right;
 }
 
