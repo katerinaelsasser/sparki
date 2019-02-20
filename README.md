@@ -21,3 +21,20 @@ tradesmen such as Electricians. When looking at each website, made some pros
 and cons. After looking at all the pros and cons, I went back to Sparki to see 
 what they like and don’t like as well as what the customer would want to see.
 
+Go to the link to see the research about the website.
+https://sparki-website-katerinaelsasser21.c9users.io/Research.html
+
+Skeleton -
+While researching competitors’ websites, I started to think what needed to be 
+included. The first thing I thought about was what navigation pages will be 
+needed. Having four pages (home, service, gallery and contact). The home page 
+would have the overall information from all four pages. The service page would 
+include all the services that Sparki do. The gallery would include all the 
+photos that they have taken of the work they have done previously. The contact 
+page would be how the customer can contact the company. 
+
+While doing my research, I saw that a lot of companies clutter up their 
+navigation which would be too messy. Some of the websites include reviews from 
+previous customers. From a customer’s point of view, you would want to see what
+other customers opinions are about this company.
+
