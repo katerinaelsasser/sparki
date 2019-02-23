@@ -7,8 +7,6 @@ electrician company can do as well as photos showing what the company can do
 (include industrial, commercial and domestic work).
 
 UX
-
-Strategy - 
 Sparki are looking for a simple designed website that would help promote 
 them to new customers and current customers that are in the area of 
 Berkshire/Surrey. They want to promote to customers wanting domestic work, 
@@ -24,7 +22,6 @@ what they like and don’t like as well as what the customer would want to see.
 Go to the link to see the research about the website.
 https://sparki-website-katerinaelsasser21.c9users.io/Research.html
 
-Skeleton -
 While researching competitors’ websites, I started to think what needed to be 
 included. The first thing I thought about was what navigation pages will be 
 needed. Having four pages (home, service, gallery and contact). The home page 
@@ -38,3 +35,32 @@ navigation which would be too messy. Some of the websites include reviews from
 previous customers. From a customer’s point of view, you would want to see what
 other customers opinions are about this company.
 
+The layout of the website needs to simple and nothing complicated which is 
+what the company wants. Sparki were going to supply the website with images 
+that they wanted to be on. 
+
+*I started off by creating the nativation/header and the footer of the website.
+
+
+
+Features
+
+
+
+Existing Features
+
+Features Left to Implement
+
+Technologies Used
+
+Testing
+
+Development
+
+Credits
+
+Content
+
+Media
+
+Acknowledgements
