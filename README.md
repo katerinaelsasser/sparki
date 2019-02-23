@@ -40,11 +40,11 @@ what the company wants. Sparki were going to supply the website with images
 that they wanted to be on. 
 
 *I started off by creating the nativation/header and the footer of the website.
-
+I wanted to put the logo above the natigation bar.
 
 
 Features
-
+On all of the pages, there is a footer and a header. The header has the 
 
 
 Existing Features
