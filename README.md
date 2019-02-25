@@ -44,7 +44,11 @@ I wanted to put the logo above the natigation bar.
 
 
 Features
-On all of the pages, there is a footer and a header. The header has the 
+On all of the pages, there is a footer and a header.
+Header
+Footer
+Home page
+
 
 
 Existing Features
@@ -52,6 +56,8 @@ Existing Features
 Features Left to Implement
 
 Technologies Used
+*button
+*
 
 Testing
 
@@ -62,5 +68,6 @@ Credits
 Content
 
 Media
+All images are from https://pixabay.com/
 
 Acknowledgements
