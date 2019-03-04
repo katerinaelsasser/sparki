@@ -95,11 +95,10 @@ header {
 
 /*----------------------------------------------------header*/
 
-footer {
+.menuitems {
     background-color: #97A99B;
     display: inline-block;
-    margin: auto;
-    min-height: 120px;
+    margin: 5px;
 }
 
 .footer-about {
@@ -118,7 +117,7 @@ footer {
 
 .navigation {
     font-family: Comfortaa, sans-serif;
-    padding: 15px;
+    padding: 5px;
     text-align: center;
     color: #2c3021;
     font-size: 20px;
@@ -146,13 +145,19 @@ section {
     padding: 10px;
 }
 
+button {
+    text-decoration: none;
+}
+
 /*----------------------------------------------------home*/
 
 .service-image {
-    height: 20%;
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
+    height: auto;
+    max-width: 100%;
+    display: block;
 }
 
 /*----------------------------------------------------service*/
@@ -163,13 +168,15 @@ section {
     margin: 0;
     padding: 5px;
     overflow: hidden;
+    height: auto;
+    max-width: 100%;
 }
 
 /*----------------------------------------------------gallery*/
 
 /*----------------------------------------------------contact*/
 
-.container-fluid-research {
+.container-fluid {
     margin: 0 auto;
     padding: 50px;
 }
