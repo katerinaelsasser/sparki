@@ -131,17 +131,22 @@ section {
     background-color: #ffffff;
     padding: 0;
     margin: 0;
-
 }
 
+.container-fluid {
+    margin: 5px;
+    padding: 100px;
+    text-align: center;
+    
+}
 /*----------------------------------------------------section*/
 
-/*----------------------------------------------------home*/
-
-.container-fluid-section p {
-    text-align: center;
-    padding: 5px;
+.intro {
+    margin-bottom: 5px;
+    padding: 10px;
 }
+
+/*----------------------------------------------------home*/
 
 .service-image {
     height: 20%;
@@ -158,21 +163,9 @@ section {
     margin: 0;
     padding: 5px;
     overflow: hidden;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
 }
 
 /*----------------------------------------------------gallery*/
-
-.container-fluid-section {
-    padding: 100px;
-    text-align: right;
-}
-
-.container-fluid-section p {
-    padding: 5px;
-    text-align: right;
-}
 
 /*----------------------------------------------------contact*/
 
