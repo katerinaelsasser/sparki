@@ -147,9 +147,20 @@ section {
     height: 20%;
     background-repeat: no-repeat;
     background-position: center;
+    position: relative;
 }
 
 /*----------------------------------------------------service*/
+
+.gallery-image {
+    position: relative;
+    display: block;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
 
 /*----------------------------------------------------gallery*/
 
@@ -170,5 +181,11 @@ section {
     padding: 50px;
 }
 
+.social-media {
+    text-align: right;
+}
 
+.contact-form {
+    text-align: left;
+}
 /*----------------------------------------------------research*/

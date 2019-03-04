@@ -44,11 +44,17 @@ I wanted to put the logo above the natigation bar.
 
 
 Features
-On all of the pages, there is a footer and a header.
-Header
-Footer
-Home page
-
+*Header - I have created a navigation; including home, service, gallery and 
+contact that all link to the page with the same name. In between the navigation
+bar, I have added the logo.
+*Footer - I have added text explaining about the company, a link to the contact 
+page and four buttons linking to the home, service, gallery and the contact page.
+*Home page
+*Service page - I have added four pieces of text on to the page (about the page,
+information about the domestic, commercial and the industrial). In between the 
+sections, I have added images to seperate the text.
+*Gallery page
+*Contact page
 
 
 Existing Features
