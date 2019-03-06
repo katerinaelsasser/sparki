@@ -8,11 +8,7 @@ header {
     background-color: #ffffff;
     padding: 10px;
     margin: 10px;
-
 }
- .container-fluid-header {
-     text-align: center;
- }
 
 .logo {
     background-position: center;
@@ -22,7 +18,7 @@ header {
     text-align: center;
 }
 
-.menuitem {
+.nav-item {
     margin: 50px;
     color: #38442C;
     font-size: 20px;
@@ -34,6 +30,8 @@ header {
 
 .hvr-reveal {
     padding: 10px;
+    text-decoration: none;
+    color: #38442C;
 }
 
 .name {
@@ -47,33 +45,17 @@ header {
 
 /*----------------------------------------------------header*/
 
-.menuitems {
+footer {
     background-color: #97A99B;
-    display: inline-block;
-    margin: 5px;
-}
-
-.footer-about {
-    font-family: Comfortaa, sans-serif;
-    color: #ffffff;
-}
-
-.footer-contact {
-    font-family: Comfortaa, sans-serif;
-    color: #ffffff;
-}
-
-.footer-contact a {
-    color: #2c3021;
+    margin: 0;
 }
 
 .navigation {
     font-family: Comfortaa, sans-serif;
     padding: 5px;
-    text-align: center;
+    text-align: left;
     color: #2c3021;
     font-size: 20px;
-    
 }
 
 /*----------------------------------------------------footer*/
@@ -84,12 +66,6 @@ section {
     margin: 0;
 }
 
-.container-fluid {
-    margin: 5px;
-    padding: 100px;
-    text-align: center;
-    
-}
 /*----------------------------------------------------section*/
 
 .intro {
@@ -139,11 +115,6 @@ button {
 }
 
 /*----------------------------------------------------contact*/
-
-.container-fluid {
-    margin: 0 auto;
-    padding: 50px;
-}
 
 .social-media {
     text-align: right;
