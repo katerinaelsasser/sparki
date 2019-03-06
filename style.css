@@ -16,75 +16,33 @@ header {
 
 .logo {
     background-position: center;
-    min-height: 50px;
-    min-width: 50px;
     height: auto;
     background-repeat: no-repeat;
     margin: 0;
     text-align: center;
 }
 
-.name {
-    background-position: center;
-}
-.home {
+.menuitem {
     margin: 50px;
     color: #38442C;
     font-size: 20px;
     letter-spacing: 4px;
     font-family: Comfortaa, sans-serif;
     text-align: center;
-    text-decoration: none;
-
-}
-
-.service {
-    margin: 50px;
-    color: #38442C;
-    font-size: 20px;
-    letter-spacing: 4px;
-    font-family: Comfortaa, sans-serif;
-    text-decoration: none;
-    text-align: center;
-}
-
-.gallery {
-    margin: 50px;
-    color: #38442C;
-    font-size: 20px;
-    letter-spacing: 4px;
-    font-family: Comfortaa, sans-serif;
-    text-decoration: none;
-    text-align: center;
-}
-
-.contact {
-    margin: 50px;
-    color: #38442C;
-    font-size: 20px;
-    letter-spacing: 4px;
-    font-family: Comfortaa, sans-serif;
-    text-decoration: none;
-    text-align: center;
-}
-
-.name {
-    margin: 50px;
-    color: #38442C;
-    font-size: 50px;
-    letter-spacing: 4px;
-    font-family: Comfortaa, sans-serif;
-}
-
-.clearfix a {
     text-decoration: none;
 }
 
 .hvr-reveal {
-    height: 50px;
-    width: 200px;
-    text-align: center;
-    padding-bottom: 5px;
+    padding: 10px;
+}
+
+.name {
+    margin: 30px;
+    color: #38442C;
+    font-size: 50px;
+    letter-spacing: 4px;
+    font-family: Comfortaa, sans-serif;
+    background-position: center;
 }
 
 /*----------------------------------------------------header*/
