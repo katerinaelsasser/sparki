@@ -6,11 +6,8 @@ CSS
 
 header {
     background-color: #ffffff;
-    overflow: auto;
-    display: block;
     padding: 10px;
     margin: 10px;
-    position: absolute;
 
 }
  .container-fluid-header {
@@ -27,12 +24,9 @@ header {
     text-align: center;
 }
 
-.list-inline {
-    margin: 0px;
-    padding: 10px;
-
+.name {
+    background-position: center;
 }
-
 .home {
     margin: 50px;
     color: #38442C;

@@ -58,6 +58,8 @@ sections, I have added images to seperate the text.
 
 
 Existing Features
+Updating the bootstrap to the current 4.4 version
+
 
 Features Left to Implement
 
@@ -66,6 +68,7 @@ Technologies Used
 *
 
 Testing
+*Testing out different views, updating the grid system so it works for all viewports.
 
 Development
 
