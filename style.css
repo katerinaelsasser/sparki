@@ -10,12 +10,10 @@ header {
     margin: 10px;
 }
 
-.logo {
-    background-position: center;
-    height: auto;
+.image-fluid {
+    size: auto;
     background-repeat: no-repeat;
     margin: 0;
-    text-align: center;
 }
 
 .nav-item {
@@ -62,19 +60,24 @@ footer {
 
 section {
     background-color: #ffffff;
-    padding: 0;
-    margin: 0;
 }
 
 /*----------------------------------------------------section*/
 
-.intro {
+.text-center {
     margin-bottom: 5px;
     padding: 10px;
+    text-align: center;
 }
 
-button {
+.heading {
+    font-family: Comfortaa, sans-serif;
+    color: #2C3021;
     text-decoration: none;
+}
+
+.img-thumbnail {
+    height: 300px;
 }
 
 /*----------------------------------------------------home*/
