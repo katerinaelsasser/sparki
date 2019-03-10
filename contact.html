@@ -46,11 +46,34 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>Contact us</h2>
-                    <form id="contact-form">
-                    <p><input type="name" id="name" placeholder="Name"/></p>
-                    <p><input type="email" id="email" placeholder="Email Address"/></p>
-                    <p><input type="text" id="text" placeholder="Message"/></p>
-                    <p><input type="submit" id="submit" placeholder="Send"/></p>
+                    <form class="col-lg-12">
+                        <div class="form-row">
+                            <div class="col">
+                            <input type="text" class="form-control" placeholder="First name">
+                            </div>
+                            <div class="col">
+                            <input type="text" class="form-control" placeholder="Last name">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleFormControlSelect1">Please select one of the options that your query is related to:</label>
+                                <select class="form-control" id="exampleFormControlSelect1">
+                                    <option>Please Select One</option>
+                                    <option>Domestic</option>
+                                    <option>Commerical</option>
+                                    <option>Industrial</option>
+                                    <option>Other</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleFormControlTextarea1">Query/Message</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
                 </div>
             </div>
