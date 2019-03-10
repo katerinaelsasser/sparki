@@ -105,10 +105,8 @@ section {
 
 /*----------------------------------------------------gallery*/
 
-.social-media {
-    font-family: Comfortaa, sans-serif;
-    font-weight: 300;
-    text-align: center;
+.fab {
+    font-size: 30px;
 }
 
 .contact-form {
