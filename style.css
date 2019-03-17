@@ -2,6 +2,9 @@ CSS
 
 @import url('https://fonts.googleapis.com/css?family=Comfortaa': 100,200,300,400,500,600,700,800,900!);
 
+.container-fluid {
+    font-family: Comfortaa, sans-serif;
+}
 /*----------------------------------------------------font*/
 
 header {
@@ -17,25 +20,16 @@ header {
 }
 
 .nav-item {
-    margin: 50px;
+    margin: 30px;
     color: #38442C;
-    font-size: 20px;
+    font-size: 30px;
     letter-spacing: 4px;
-    font-family: Comfortaa, sans-serif;
-    text-align: center;
-    text-decoration: none;
-}
-
-.hvr-reveal {
-    padding: 10px;
-    text-decoration: none;
-    color: #38442C;
 }
 
 .name {
     margin: 30px;
     color: #38442C;
-    font-size: 50px;
+    font-size: 60px;
     letter-spacing: 4px;
     font-family: Comfortaa, sans-serif;
     background-position: center;
