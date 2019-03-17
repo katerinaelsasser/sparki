@@ -35,6 +35,9 @@ header {
     background-position: center;
 }
 
+.border-bottom {
+    margin: 3px;
+}
 /*----------------------------------------------------header*/
 
 footer {
@@ -46,7 +49,6 @@ footer {
     font-family: Comfortaa, sans-serif;
     padding: 5px;
     text-align: left;
-    color: #2c3021;
     font-size: 15px;
 }
 
@@ -74,6 +76,10 @@ section {
     height: 300px;
 }
 
+button {
+    margin: 5px;
+}
+
 /*----------------------------------------------------home*/
 
 .service-image {
@@ -95,6 +101,10 @@ section {
     overflow: hidden;
     height: auto;
     max-width: 100%;
+}
+
+.border {
+    margin: 10px;
 }
 
 /*----------------------------------------------------gallery*/
