@@ -90,7 +90,8 @@ section {
 }
 
 .btn {
-    padding: 5px;    
+    width: 500px;
+    
 }
 
 .img-fluid {
@@ -118,7 +119,6 @@ section {
     margin: 10px;
 }
 
-
 /*----------------------------------------------------gallery*/
 
 .fab {
@@ -128,8 +128,9 @@ section {
 .contact-form {
     font-family: Comfortaa, sans-serif;
     font-weight: 200;
-
 }
+
+
 
 /*----------------------------------------------------contact*/
 
