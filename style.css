@@ -76,16 +76,27 @@ section {
     height: 300px;
 }
 
-button {
-    margin: 5px;
-}
 
 /*----------------------------------------------------home*/
 
-.service-image {
+.card {
+    min-width: 220px;
+    display: flex;
+    margin-right: 15px;
+}
+
+.card-body {
+    margin: 5px;    
+}
+
+.btn {
+    padding: 5px;    
+}
+
+.img-fluid {
+    margin: 5px;
     background-repeat: no-repeat;
     background-position: center;
-    position: relative;
     height: auto;
     max-width: 100%;
     display: block;
@@ -106,6 +117,7 @@ button {
 .border {
     margin: 10px;
 }
+
 
 /*----------------------------------------------------gallery*/
 
