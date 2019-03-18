@@ -11,19 +11,19 @@ electrician company can do as well as photos showing what the company can do
 #### Surface
 * Colours - In this industry, they use the term "Earth". I wanted to use that and
 include colours that were earth related. Which means different greens and 
-browns. I found a picture of Eucalyptus and use it as my colour [reference] 
-(https://assets.bhg.com/bhg/styles/nfp_1080_portrait/public/images/2015/9/28/Nov-color-opener-NEW.jpg?48XOLehbxwDKpF5J9ZgjBy5aCTxQ2pCj).
+browns. I found a picture of Eucalyptus and use it as my colour [reference](https://assets.bhg.com/bhg/styles/nfp_1080_portrait/public/images/2015/9/28/Nov-color-opener-NEW.jpg?48XOLehbxwDKpF5J9ZgjBy5aCTxQ2pCj). *
 I use colours from this picture to use throughout the website.
 * Typology - The company wanted to use simple and basic text which was easy to 
 read. I went to Google Fonts, where I found the font "Comfortaa". Which was 
 easy to read. 
 * Layout - The layout has to be simple, not too busy. Easy to follow and to find
-pages. I drew up [mock ups]  (https://sparki-website-katerinaelsasser21.c9users.io/mock-up.html) and ideas that I thought was easy to understand. I 
+pages. I drew up [mock ups](https://sparki-website-katerinaelsasser21.c9users.io/mock-up.html) and ideas that I thought was easy to understand. I 
 also took into acount what parts of the websites that i liked and thought 
 worked well.
 * Images - The images that I was going to use were images that are of jobs that
 the company has done. As well as this, I am using images that are of the members
 of the team working on jobs.
+
 #### Strategy
 After the talking to the company, we discussed about what their requirements 
 for this website were. The company want customers to find how information of
@@ -69,10 +69,8 @@ companies that are in the area that would be Sparki’s competition. As well
 as this, I have looked at a popular website that specialises in promoting 
 tradesmen such as Electricians. When looking at each website, made some pros 
 and cons. After looking at all the pros and cons, I went back to Sparki to see 
-what they like and don’t like as well as what the customer would want to see.
-
-Go to the link to see the research about the website.
-https://sparki-website-katerinaelsasser21.c9users.io/Research.html
+what they like and don’t like as well as what the customer would want to see. I 
+put all my information together [here](https://sparki-website-katerinaelsasser21.c9users.io/Research.html).
 
 While researching competitors’ websites, I started to think what needed to be 
 included. The first thing I thought about was what navigation pages will be 
@@ -97,21 +95,21 @@ I wanted to put the logo above the natigation bar.
 
 ## Features
 --------
-*Header - I have created a navigation; including home, service, gallery and 
+* Header - I have created a navigation; including home, service, gallery and 
 contact that all link to the page with the same name. In between the navigation
 bar, I have added the logo above the navigation.
-*Footer - I have added text explaining about the company, a link to the contact 
+* Footer - I have added text explaining about the company, a link to the contact 
 page and four buttons linking to the home, service, gallery and the contact page.
-*Home page - I have added buttons with a hyperlink that take the customers to 
+* Home page - I have added buttons with a hyperlink that take the customers to 
 specific page. For example: the section for the service page has a hyperlink 
 to the page service.html. I have also displayed images the company has supplied
 me with of members of their team working.
 I have also linked the headings for each of the sections to each of the pages. 
-*Service page - I have displayed the two services that the company does in a box
+* Service page - I have displayed the two services that the company does in a box
 and underneath I have created bulletpoints of what they can do for those services.
 Underneath the services I have displayed two images of the work the company has
 done.
-*Gallery page - I have added several images on to this page to display them for
+* Gallery page - I have added several images on to this page to display them for
 customers to see. I have made them into thumbnails, as this is easier to view
 them all. All of the images that have been used throughout the website has been 
 used in the gallery. At the top of the page I have create a small snippet of 
@@ -121,17 +119,21 @@ done then to click the button. The button takes the customer to the contact page
 requested for the company to ask them. I have also added a phone number for the 
 company for customers to contact them straight away and I have added links to 
 social media pages.
-*Mobile View - The mobile view of all the pages I wanted it to be very simple. I
+* Mobile View - The mobile view of all the pages I wanted it to be very simple. I
 have the navigation bar going downward and underneath are the page information.
 
 
 ## Existing Features
 --------
-*Service and the contact page were inspired by Bootstraps example, 
+The following features were inspired and  developed to make my own version to 
+suit the style of the company's website.
+* Service (the boxes that were containing the service options) and the contact 
+page (the boxes containing the contact details of Sparki) were inspired by 
+Bootstraps example, [Pricing](https://getbootstrap.com/docs/4.3/examples/pricing/).
+* The gallery page was inspired and developed by Bootstraps example, [Album](https://getbootstrap.com/docs/4.3/examples/album/).
+* The form on the contact page was inspired by Bootstraps example, [Checkout](https://getbootstrap.com/docs/4.3/examples/checkout/).
 
-
-Features Left to Implement
-
+## Features Left to Implement
 Technologies Used
 *button
 *
