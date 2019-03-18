@@ -1,14 +1,14 @@
-Katerina Elsasser’s Spraki Website #
+# Katerina Elsasser’s Spraki Website
 -----
 This project is for the company ‘Sparki’ which is a electrician company based 
 in the south of England. The aim of the website is to promote this company to 
 customers in the Berkshire/Surrey areas. The website must include what the 
 electrician company can do as well as photos showing what the company can do 
-(include industrial, commercial and domestic work).
+(including commercial and domestic work).
 
-UX ##
+## UX
 ------
-Surface ####
+#### Surface
 *Colours - In this industry, they use the term "Earth". I wanted to use that and
 include colours that were earth related. Which means different greens and 
 browns. I found a picture of Eucalyptus and use it as my colour reference 
@@ -24,16 +24,15 @@ worked well. (https://sparki-website-katerinaelsasser21.c9users.io/mock-up.html)
 *Images - The images that I was going to use were images that are of jobs that
 the company has done. As well as this, I am using images that are of the members
 of the team working on jobs.
-Strategy ####
+#### Strategy
 After the talking to the company, we discussed about what their requirements 
 for this website were. The company want customers to find how information of
 the services that the company does as well as finding it easy for customers to 
 find how to contact the company.
 I want to have lots of ways that directs to the contact page which means finding
 ways to add links to that page. This website is aimed at customers and I also
-want to aim at businesses that will want to use the company's industrial and 
-comercial services.
-Structure ####
+want to aim at businesses that will want to use the company's comercial services.
+#### Structure
 The layout throughout the website must be informational and have an simple 
 layout. All the information that is on the website is give to myself from the 
 company. Putting myself in the customers' and the business' point of view, I 
@@ -45,7 +44,7 @@ The content I use throughout the website must be appropriate for customers and
 businesses. As a customer wanting an electrician, I would view their website 
 via a mobile or small device. Which means the smaller view ports should be easy
 to view. For businesses, I would view the company's website via a computer.
-Skeleton ####
+#### Skeleton
 The skeleton of the website must have a navigation. The links and 
 elements used on this feature must work and be interactive. The navigation will 
 be on the headers and the footers on all the html files. On all the pages, the 
@@ -53,7 +52,7 @@ links on the navigation will be identical to each other. The only thing that
 will be different on each page will be the section.
 My aim on this website is to have minimal features on this website as this 
 makes the website have good usability.
-Scope ####
+#### Scope
 After speaking to the company about what they wanted, I started to research 
 other electrian companies similar to the Sparki as well as in the same location.
 I researched four companies websites, I made a list of what I liked and what
