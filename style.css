@@ -58,6 +58,11 @@ section {
     background-color: #ffffff;
 }
 
+.btn {
+    width: 500px;
+    display: block
+}
+
 /*----------------------------------------------------section*/
 
 .text-center {
@@ -87,11 +92,6 @@ section {
 
 .card-body {
     margin: 5px;    
-}
-
-.btn {
-    width: 500px;
-    
 }
 
 .img-fluid {
