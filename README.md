@@ -127,11 +127,16 @@ have the navigation bar going downward and underneath are the page information.
 --------
 The following features were inspired and  developed to make my own version to 
 suit the style of the company's website.
-* Service (the boxes that were containing the service options) and the contact 
-page (the boxes containing the contact details of Sparki) were inspired by 
+* Service (the boxes that were containing the service options) were inspired by 
 Bootstraps example, [Pricing](https://getbootstrap.com/docs/4.3/examples/pricing/).
+I alternatied the code by only exanding two boxes to fill the whole page so I can
+put the information in side of the box. I removed the pricing element as all I 
+wanted was to contain the information of the services. I adjusted the colour of 
+the button to suit the style of Sparki's website.
+* Contact (the boxes containing the contact details of Sparki)
 * The gallery page was inspired and developed by Bootstraps example, [Album](https://getbootstrap.com/docs/4.3/examples/album/).
 * The form on the contact page was inspired by Bootstraps example, [Checkout](https://getbootstrap.com/docs/4.3/examples/checkout/).
+
 
 ## Features Left to Implement
 Technologies Used
