@@ -9,19 +9,19 @@ electrician company can do as well as photos showing what the company can do
 ## UX
 ------
 #### Surface
-*Colours - In this industry, they use the term "Earth". I wanted to use that and
+* Colours - In this industry, they use the term "Earth". I wanted to use that and
 include colours that were earth related. Which means different greens and 
-browns. I found a picture of Eucalyptus and use it as my colour reference 
+browns. I found a picture of Eucalyptus and use it as my colour [reference] 
 (https://assets.bhg.com/bhg/styles/nfp_1080_portrait/public/images/2015/9/28/Nov-color-opener-NEW.jpg?48XOLehbxwDKpF5J9ZgjBy5aCTxQ2pCj).
 I use colours from this picture to use throughout the website.
-*Typology - The company wanted to use simple and basic text which was easy to 
+* Typology - The company wanted to use simple and basic text which was easy to 
 read. I went to Google Fonts, where I found the font "Comfortaa". Which was 
 easy to read. 
-*Layout - The layout has to be simple, not too busy. Easy to follow and to find
-pages. I drew up mock ups and ideas that I thought was easy to understand. I 
+* Layout - The layout has to be simple, not too busy. Easy to follow and to find
+pages. I drew up [mock ups]  (https://sparki-website-katerinaelsasser21.c9users.io/mock-up.html) and ideas that I thought was easy to understand. I 
 also took into acount what parts of the websites that i liked and thought 
-worked well. (https://sparki-website-katerinaelsasser21.c9users.io/mock-up.html)
-*Images - The images that I was going to use were images that are of jobs that
+worked well.
+* Images - The images that I was going to use were images that are of jobs that
 the company has done. As well as this, I am using images that are of the members
 of the team working on jobs.
 #### Strategy
@@ -59,13 +59,10 @@ I researched four companies websites, I made a list of what I liked and what
 I didn't like about the pages.
 https://sparki-website-katerinaelsasser21.c9users.io/research.html
 
-
-
-
 Sparki are looking for a simple designed website that would help promote 
 them to new customers and current customers that are in the area of 
 Berkshire/Surrey. They want to promote to customers wanting domestic work, 
-or businesses who wanted commercial and industrial work. They want to include 
+or businesses who wanted commercial work. They want to include 
 photos of work that they have already done to show what they can do. 
 After thinking about what they want, I started to do some research with 
 companies that are in the area that would be Sparki’s competition. As well 
@@ -98,7 +95,8 @@ that they wanted to be on.
 I wanted to put the logo above the natigation bar.
 
 
-Features
+## Features
+--------
 *Header - I have created a navigation; including home, service, gallery and 
 contact that all link to the page with the same name. In between the navigation
 bar, I have added the logo above the navigation.
@@ -109,14 +107,16 @@ specific page. For example: the section for the service page has a hyperlink
 to the page service.html. I have also displayed images the company has supplied
 me with of members of their team working.
 I have also linked the headings for each of the sections to each of the pages. 
-*Service page - I have added four pieces of text on to the page (about the page,
-information about the domestic, commercial and the industrial). In between the 
-sections, I have added images to seperate the text. I have also displayed images
-of some of the work that has been done by the company.
+*Service page - I have displayed the two services that the company does in a box
+and underneath I have created bulletpoints of what they can do for those services.
+Underneath the services I have displayed two images of the work the company has
+done.
 *Gallery page - I have added several images on to this page to display them for
 customers to see. I have made them into thumbnails, as this is easier to view
 them all. All of the images that have been used throughout the website has been 
-used in the gallery.
+used in the gallery. At the top of the page I have create a small snippet of 
+text just saying that if they see anything in the gallery that they would like 
+done then to click the button. The button takes the customer to the contact page.
 *Contact page - I have put a form for customers to fill out for any queries or 
 requested for the company to ask them. I have also added a phone number for the 
 company for customers to contact them straight away and I have added links to 
@@ -125,8 +125,9 @@ social media pages.
 have the navigation bar going downward and underneath are the page information.
 
 
-Existing Features
-Updating the bootstrap to the current 4.4 version
+## Existing Features
+--------
+*Service and the contact page were inspired by Bootstraps example, 
 
 
 Features Left to Implement
