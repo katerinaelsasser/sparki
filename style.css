@@ -82,7 +82,10 @@ section {
     height: 300px;
 }
 
-
+.btn-block {
+    text-align: center;
+    vertical-align: middle;
+}
 /*----------------------------------------------------home*/
 
 .card {
