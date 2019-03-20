@@ -2,6 +2,7 @@ CSS
 
 @import url('https://fonts.googleapis.com/css?family=Comfortaa': 100,200,300,400,500,600,700,800,900!);
 
+.container
 .container-fluid {
     font-family: Comfortaa, sans-serif;
 }
@@ -62,6 +63,8 @@ section {
 .btn {
     width: 500px;
     display: block
+    padding: 5px;
+    
 }
 
 /*----------------------------------------------------section*/
@@ -83,8 +86,7 @@ section {
 }
 
 .btn-block {
-    text-align: center;
-    vertical-align: middle;
+    
 }
 /*----------------------------------------------------home*/
 
@@ -95,7 +97,8 @@ section {
 }
 
 .card-body {
-    margin: 5px;    
+    margin: 5px; 
+    padding: 5px;
 }
 
 .img-fluid {
