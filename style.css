@@ -2,7 +2,6 @@ CSS
 
 @import url('https://fonts.googleapis.com/css?family=Comfortaa': 100,200,300,400,500,600,700,800,900!);
 
-.container
 .container-fluid {
     font-family: Comfortaa, sans-serif;
 }
@@ -149,3 +148,22 @@ section {
     text-align: left;
 }
 /*----------------------------------------------------research*/
+
+.mockup {
+    position: relative;
+    display: block;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    height: auto;
+    max-width: 100%;
+}
+
+.text {
+    padding: 5px;
+}
+
+.text-mockup {
+    padding: 5px;
+}
+/*----------------------------------------------------mock-up*/
