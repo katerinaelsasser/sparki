@@ -4,8 +4,7 @@ This project is for the company ‘Sparki’ which is a electrician company base
 in the south of England. The aim of the website is to promote this company to 
 customers in the Berkshire/Surrey areas and to get those customers to contact 
 Sparki. The website must include what the electrician company can do as well as 
-photos showing what the company can do 
-(including commercial and domestic work).
+photos showing what the company can do (including commercial and domestic work).
 
 Below has all the research and how I created, tested and improved a website for 
 this company. To see the final outcome of the website I made for Sparki, [click here](https://sparki-website-katerinaelsasser21.c9users.io/index.html).

@@ -1,0 +1,33 @@
+.slider {
+  background: #333;
+  height: 400px;
+  width: 100%;
+}
+
+#logo {
+  background: #ccc;
+  width: 150px;
+  height: 70px;
+}
+
+.navbar-toggler {
+  margin-top: 15px;
+}
+
+@media screen and (min-width: 992px) {
+  .navbar {
+      height: 130px;
+   }
+  #logo {
+    width: 260px;
+    height: 120px;
+    position: relative;
+    bottom: -20px;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    padding-right: 75px;
+  }
+  #nav-left {
+    padding-left: 30px;
+  }
+}
