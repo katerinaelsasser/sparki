@@ -105,6 +105,11 @@ section {
  .form-control {
      padding: 15px;
  }
+ 
+ .list-unstyled {
+     margin: 0;
+     padding: 0;
+ }
 /*----------------------------------------------------contact*/
 .social-media {
     text-align: right;
