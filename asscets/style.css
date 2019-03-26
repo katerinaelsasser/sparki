@@ -50,6 +50,11 @@ footer {
 section {
     background-color: #ffffff;
 }
+
+.container {
+    margin: 0;
+    padding: 0;
+}
 /*----------------------------------------------------section*/
 .text-center {
     margin-bottom: 5px;
@@ -98,10 +103,6 @@ section {
     padding-bottom: 10px;
  }
  
- .col {
-     margin: 0;
-     padding-bottom: 10px;
- }
  .form-control {
      padding: 15px;
  }
