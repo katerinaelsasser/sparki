@@ -69,6 +69,11 @@ section {
 .img-fluid {
     padding: 10px;
 }
+
+.fa-bolt {
+    padding: 5px;
+    text-decoration: none;
+}
 /*----------------------------------------------------service*/
 .gallery-image {
     position: relative;
