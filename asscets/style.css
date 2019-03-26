@@ -31,19 +31,24 @@
     padding-left: 30px;
   }
 }
-            /*----------------------------------------------------header*/
+
+.navbar {
+    width: auto;
+}
+/*----------------------------------------------------header*/
 footer {
-    width: 50px;
+    width: auto;
     padding: 0;
+    margin: 0;
+    height: 50px;
+}
+
+.nav-item {
+    padding: 5px;
 }
 /*----------------------------------------------------footer*/
 section {
     background-color: #ffffff;
-}
-.btn {
-    width: 500px;
-    display: block
-    padding: 5px;
     
 }
 /*----------------------------------------------------section*/
@@ -52,35 +57,7 @@ section {
     padding: 20px;
     text-align: center;
 }
-.heading {
-    font-family: Comfortaa, sans-serif;
-    color: #2C3021;
-    text-decoration: none;
-}
-.img-thumbnail {
-    height: 300px;
-}
-.btn-block {
-    
-}
 /*----------------------------------------------------home*/
-.card {
-    min-width: 220px;
-    display: flex;
-    margin-right: 15px;
-}
-.card-body {
-    margin: 5px;
-    padding: 5px;
-}
-.img-fluid {
-    margin: 5px;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: auto;
-    max-width: 100%;
-    display: block;
-}
 /*----------------------------------------------------service*/
 .gallery-image {
     position: relative;
