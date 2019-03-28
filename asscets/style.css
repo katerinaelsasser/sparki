@@ -93,11 +93,9 @@ section {
     margin: 10px;
 }
 /*----------------------------------------------------gallery*/
-.fab {
-    font-size: 30px;
-}
+
  form {
-    margin: 0;
+    margin: 15px;
     padding-left: 0;
     padding-right: 0;
     padding-bottom: 10px;
@@ -105,12 +103,17 @@ section {
  
  .form-control {
      padding: 15px;
+     margin: 5px;
  }
  
  .list-unstyled {
      margin: 0;
      padding: 5px;
  }
+
+.text-primary {
+    padding: 5.5px;
+}
 /*----------------------------------------------------contact*/
 .social-media {
     text-align: right;
