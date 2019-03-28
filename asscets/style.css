@@ -57,7 +57,7 @@ section {
 }
 /*----------------------------------------------------section*/
 .text-center {
-    margin-bottom: 5px;
+    margin-bottom: 0;
     padding: 20px;
     text-align: center;
 }
