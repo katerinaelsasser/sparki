@@ -12,21 +12,17 @@ this company. To see the final outcome of the website I made for Sparki, [click 
 ## UX
 
 #### Surface
-* Colours - In this industry, they use the term "Earth". I wanted to use that and
-include colours that were earth related. Which means different greens and 
-browns. I found a picture of Eucalyptus and use it as my colour [reference](https://assets.bhg.com/bhg/styles/nfp_1080_portrait/public/images/2015/9/28/Nov-color-opener-NEW.jpg?48XOLehbxwDKpF5J9ZgjBy5aCTxQ2pCj).
-I use colours from this picture to use throughout the website.
-* Typology - The company wanted to use simple and basic text which was easy to 
-read. I went to Google Fonts, where I found the font "Comfortaa". Which was 
-easy to read. 
-* Layout - The layout has to be simple, not too busy. Easy to follow and to find
-pages. I drew up [mock ups](https://sparki-website-katerinaelsasser21.c9users.io/mock-up.html) and ideas that I thought was easy to understand. I 
-also took into acount what parts of the websites that i liked and thought 
-worked well.
-* Images - The images that I was going to use were images that are of jobs that
-the company has done. As well as this, I am using images that are of the members
-of the team working on jobs.
-
+When I started to think of the surface of the website, I started to think about
+the layout, the colours, the typology and the imagery used throughout. The 
+layout has to be simple, not too busy. Easy to follow and to find pages. I drew 
+up [mock ups](https://sparki-website-katerinaelsasser21.c9users.io/mock-up.html) 
+and ideas that I thought was easy to understand. I also took into acount what 
+parts of the websites that i liked and thought worked well. The images that I 
+was going to use were images that are of jobs that the company has done. As 
+well as this, I am using images that are of the members of the team working on 
+jobs. Lastly the typology and colours,the font I chose was readable and the 
+colours I chose were simple as I didn't want these to take the focus away from 
+what the website is intended for.
 #### Strategy
 The company want customers to find their contact information and also information
 of the services. Taking this to mind, I want there to be lots of links to the 
@@ -50,83 +46,33 @@ navigation which will be featured on the header and the footer on each html page
 By doing this, it will make the whole webpage look uniform. The only thing that 
 will differ each page will be the section.
 #### Scope
-The research was a massive key to this website as there are is a lot of competion
-in the area and I want to see what other companies are doing and what they are
-missing from their website. The research I do will help shape the website I 
-create for Sparki.
-I looked at four electrician companies that would be Sparki's competitors and 
-put together pros and cons to each website I looked at.[Click here](https://sparki-website-katerinaelsasser21.c9users.io/research.html)
-to see the research I did and what conclusion I have afterwards.
+Research was key for this website as I can see what other competitors have on the
+website and also what they are missing from their website
+I put together all my research on one page, [click here](https://sparki-website-katerinaelsasser21.c9users.io/research.html)
 
-Sparki are looking for a simple designed website that would help promote 
-them to new customers and current customers that are in the area of 
-Berkshire/Surrey. They want to include photos of work that they have already 
-done to show what they can do. 
-After thinking about what they want, I started to do some research with 
-companies that are in the area that would be Sparki’s competition. As well 
-as this, I have looked at a popular website that specialises in promoting 
-tradesmen such as Electricians. When looking at each website, made some pros 
-and cons. After looking at all the pros and cons, I went back to Sparki to see 
-what they like and don’t like as well as what the customer would want to see.
-
-While researching competitors’ websites, I started to think what needed to be 
-included. The first thing I thought about was what navigation pages will be 
-needed. Having four pages (home, service, gallery and contact). The home page 
-would have the overall information from all four pages. The service page would 
-include all the services that Sparki do. The gallery would include all the 
-photos that they have taken of the work they have done previously. The contact 
-page would be how the customer can contact the company. 
-
-While doing my research, I saw that a lot of companies clutter up their 
-navigation which would be too messy. Some of the websites include reviews from 
-previous customers. From a customer’s point of view, you would want to see what
-other customers opinions are about this company.
-
-The layout of the website needs to simple and nothing complicated which is 
-what the company wants. Sparki were going to supply the website with images 
-that they wanted to be on. 
-
-*I started off by creating the nativation/header and the footer of the website.
-I wanted to put the logo above the natigation bar.
-
+#### User Stories
+* As a user, I want to see a page that has all the information to contact the company.
+* As a user, I want to click on the navigation, and it will take me to the location
+of that specific page.
+* As a user, I want to see a clear header and footer layout so it is understandable.
+* As a user, I want to click on a page to view all of the services that the company has.
+* As a user, I want a page that displays all of the images.
+* As a user, I want to click a button that will take me to a designated page.
 
 ## Features
+Throughout the page, there is a navigation bar on the header and the footer that
+takes you to the designated area. As well as this, I have put buttons on all the 
+pages that will take the customer to the contact page so they will contact Sparki.
 
 #### Existing Features
-* Header - I have created a navigation; including home, service, gallery and 
-contact that all link to the page with the same name. In between the navigation
-bar, I have added the logo above the navigation.
-* Footer - I have added text explaining about the company, a link to the contact 
-page and four buttons linking to the home, service, gallery and the contact page.
-* Home page - I have added buttons with a hyperlink that take the customers to 
-specific page. For example: the section for the service page has a hyperlink 
-to the page service.html. I have also displayed images the company has supplied
-me with of members of their team working.
-I have also linked the headings for each of the sections to each of the pages. 
-* Service page - I have displayed the two services that the company does in a box
-and underneath I have created bulletpoints of what they can do for those services.
-This has been inspired by the bootstrap example, [Pricing](https://getbootstrap.com/docs/4.3/examples/pricing/). 
-I alternatied the code by only exanding two boxes to fill the whole page so I can
-put the information in side of the box. I removed the pricing element as all I 
-wanted was to contain the information of the services. I adjusted the colour of 
-the button to suit the style of Sparki's website.
-Underneath the services I have displayed two images of the work the company has
-done.
-* Gallery page - I have added several images on to this page to display them for
-customers to see. I have made them into thumbnails, as this is easier to view
-them all. All of the images that have been used throughout the website has been 
-used in the gallery. The layout of the images have been inspired and developed 
-from bootstraps example, [Album](https://getbootstrap.com/docs/4.3/examples/album/).
-At the top of the page I have create a small snippet of 
-text just saying that if they see anything in the gallery that they would like 
-done then to click the button. The button takes the customer to the contact page.
-*Contact page - I have put a form for customers to fill out for any queries or 
-requested for the company to ask them. This feature has been developed from 
-Bootstraps example, [Checkout](https://getbootstrap.com/docs/4.3/examples/checkout/).
-I have also added other contact information for customers to contact Sparki and 
-I have added links to Sparki's social media pages.
-* Mobile View - The mobile view of all the pages I wanted it to be very simple. I
-have the navigation bar going downward and underneath are the page information.
+* Buttons - This allows the users to get to a page by clicking on it.
+* Form - This allows the user to contact the company by filling the sections out
+and pressing submit.
+* Hover - This allows the user to see clearly which navigation title they might 
+click on by hovering over one of the titles.
+* Dropdown - This allows the user to view the navigation bar in the mobile view.
+*Social Media Links - This allows the user to get the social media page by clicking
+on the designated social media name.
 
 #### Features Left to Implement
 In the future as Sparki gets found more by customers and their services get use,
@@ -140,13 +86,24 @@ want that placed on their website on the home page as well.
 ## Technologies Used
 * HTML
 * CSS
-* Bootstrap V4.3
+* Bootstrap
 
 
 ## Testing
-*Testing out different views, updating the grid system so it works for all viewports.
+* Contact form:
+1. Go to the contact page
+2. Type on a letter into the email section to see a error message.
+3. Clicked on the submit button with empty cells to see an error message
 
-## Development
+Contact form:
+Go to the "Contact Us" page
+Try to submit the empty form and verify that an error message about the required fields appears
+Try to submit the form with an invalid email address and verify that a relevant error message appears
+Try to submit the form with all inputs valid and verify that a success message appears.
+
+
+
+## Devoyment
 *Footer - I have updated the footer because I want to link only the pages and 
 keep the layout simple. I have removed the information about the company (moving
 that information to the home page) and the contact section (putting a link on 
@@ -164,3 +121,5 @@ All images were taken from [Pixabay](https://pixabay.com/) and [Pixels](https://
 #### Acknowledgements
 Code used throughout the website has been found throughout on Bootstarp, the courses
 "HTML Fundamentals", "CSS Fundamentals" and "User Centric Frontend Development".
+The form was inspired by the Bootstrap example called [Checkout](https://getbootstrap.com/docs/4.3/examples/checkout/).
+The photo layout was inspired by the Bootstrap example called [Album](https://getbootstrap.com/docs/4.3/examples/album/).
