@@ -79,6 +79,10 @@ section {
     padding: 5px;
     text-decoration: none;
 }
+
+.btn-md {
+    padding: 15px;
+}
 /*----------------------------------------------------service*/
 .gallery-image {
     position: relative;
