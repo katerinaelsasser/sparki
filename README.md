@@ -71,7 +71,7 @@ and pressing submit.
 * Hover - This allows the user to see clearly which navigation title they might 
 click on by hovering over one of the titles.
 * Dropdown - This allows the user to view the navigation bar in the mobile view.
-*Social Media Links - This allows the user to get the social media page by clicking
+* Social Media Links - This allows the user to get the social media page by clicking
 on the designated social media name.
 
 #### Features Left to Implement
@@ -91,17 +91,10 @@ want that placed on their website on the home page as well.
 
 ## Testing
 * Contact form:
-1. Go to the contact page
+Go to the contact page
 2. Type on a letter into the email section to see a error message.
 3. Clicked on the submit button with empty cells to see an error message
-
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-
-
+4. Typing a email address in the email section to see error messages for the first and last name.
 
 ## Devoyment
 *Footer - I have updated the footer because I want to link only the pages and 
