@@ -85,6 +85,18 @@ want that placed on their website on the home page as well.
 
 
 ## Testing
+The user stories that I had at the beginning of this process helped me with
+testing and these became a check list for me.
+Check List
+* As a user, I want to see a page that has all the information to contact the company.
+... This was the contant page, this page shows the phone number, email address and
+the social media links and also has a form that will go to the company.
+* As a user, I want to click on the navigation, and it will take me to the location
+of that specific page.
+* As a user, I want to see a clear header and footer layout so it is understandable.
+* As a user, I want to click on a page to view all of the services that the company has.
+* As a user, I want a page that displays all of the images.
+* As a user, I want to click a button that will take me to a designated page.
 Below are the tests that I took.
 * Home Page:
 1. Open up the inspect page
@@ -126,13 +138,9 @@ Go to the contact page
 
 
 ## Deployment
-*Footer - I have updated the footer because I want to link only the pages and 
-keep the layout simple. I have removed the information about the company (moving
-that information to the home page) and the contact section (putting a link on 
-each page that links to contact.html).
-*Home page - I have updated the buttons on each of the sections. Instead of it
-linking to the html of the same name. It is linked to the contact page, this is
-because the company wants customers to get in contact with their team easily.
+The website was deployed from the master branch and hosted on GitHub pages. 
+When I add new commits to the master branch the website will be updated 
+automatically. 
 
 ## Credits
 #### Content
