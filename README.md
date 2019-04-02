@@ -1,13 +1,8 @@
 # Katerina Elsasser’s Spraki Website
 -----
 This project is for the company ‘Sparki’ which is a electrician company based 
-in the south of England. The aim of the website is to promote this company to 
-customers in the Berkshire/Surrey areas and to get those customers to contact 
-Sparki. The website must include what the electrician company can do as well as 
-photos showing what the company can do (including commercial and domestic work).
-
-Below has all the research and how I created, tested and improved a website for 
-this company. To see the final outcome of the website I made for Sparki, [click here](https://sparki-website-katerinaelsasser21.c9users.io/index.html).
+in the south of England. The aim of the website is to get those customers to contact 
+Sparki as well as showing what services they do. To see the final outcome I made, [click here](https://sparki-website-katerinaelsasser21.c9users.io/index.html).
 
 ## UX
 
@@ -31,12 +26,11 @@ want to aim at businesses that would want to use the company's commercial servic
 #### Structure
 The layout throughout the website must be informational and have an simple 
 layout. All the information that is on the website is give to myself from the 
-company. Putting myself in the customers' and the business' point of view, I 
-would want to see all the inforamtion that I need layed out clearly and where I 
+company. Putting myself in the customer's point of view, I 
+want to see all the information that I need layed out clearly and where I 
 can find it easily. The home page will have quick highlights of the website for 
-customers needing a last minute electrician. There must be links to the website
-for businesses to take their time to do their research about the company.
-The content I use throughout the website must be appropriate for customers and 
+customers needing a last minute electrician. The content I use throughout the 
+website must be appropriate for customers and 
 businesses. As a customer wanting an electrician, I would view their website 
 via a mobile or small device. Which means the smaller view ports should be easy
 to view. For businesses, I would view the company's website via a computer.
@@ -84,19 +78,54 @@ Also when Sparki starts posting more on their social media platforms, they will
 want that placed on their website on the home page as well.
 
 ## Technologies Used
-* HTML
+* HTML5
 * CSS
-* Bootstrap
+* [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+* [Bootswatch](https://bootswatch.com/lux/)
 
 
 ## Testing
+Below are the tests that I took.
+* Home Page:
+1. Open up the inspect page
+2. Change the view to mobile (iPhone X or Galaxy S5)
+3. Check all elements and features on the page adjust to the mobile layout
+4. Change the view to tablet (iPad)
+5. Check the layout adjusts to the tablet view
+6. Close inspect page
+7. Check the website layout works on desktop view
+* Service Page:
+1. Open up the inspect page
+2. Change the view to mobile (iPhone X or Galaxy S5)
+3. Check all elements and features on the page adjust to the mobile layout
+4. Change the view to tablet (iPad)
+5. Check the layout adjusts to the tablet view
+6. Close inspect page
+7. Check the website layout works on desktop view
+* Gallery Page:
+1. Open up the inspect page
+2. Change the view to mobile (iPhone X or Galaxy S5)
+3. Check all elements and features on the page adjust to the mobile layout
+4. Change the view to tablet (iPad)
+5. Check the layout adjusts to the tablet view
+6. Close inspect page
+7. Check the website layout works on desktop view
+* Contact Page:
+1. Open up the inspect page
+2. Change the view to mobile (iPhone X or Galaxy S5)
+3. Check all elements and features on the page adjust to the mobile layout
+4. Change the view to tablet (iPad)
+5. Check the layout adjusts to the tablet view
+6. Close inspect page
+7. Check the website layout works on desktop view
 * Contact form:
 Go to the contact page
 2. Type on a letter into the email section to see a error message.
 3. Clicked on the submit button with empty cells to see an error message
 4. Typing a email address in the email section to see error messages for the first and last name.
 
-## Devoyment
+
+## Deployment
 *Footer - I have updated the footer because I want to link only the pages and 
 keep the layout simple. I have removed the information about the company (moving
 that information to the home page) and the contact section (putting a link on 
@@ -106,7 +135,6 @@ linking to the html of the same name. It is linked to the contact page, this is
 because the company wants customers to get in contact with their team easily.
 
 ## Credits
-
 #### Content
 All content that is on this website has been written by myself.
 #### Media
@@ -116,3 +144,4 @@ Code used throughout the website has been found throughout on Bootstarp, the cou
 "HTML Fundamentals", "CSS Fundamentals" and "User Centric Frontend Development".
 The form was inspired by the Bootstrap example called [Checkout](https://getbootstrap.com/docs/4.3/examples/checkout/).
 The photo layout was inspired by the Bootstrap example called [Album](https://getbootstrap.com/docs/4.3/examples/album/).
+The navigation layout was inspired by a example called [Bootstrap 4 Centered Logo Navbar](https://codepen.io/mmgolden/pen/JNewdL)

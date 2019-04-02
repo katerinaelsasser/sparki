@@ -26,6 +26,9 @@
   }
 }
 
+.navbar {
+    width: auto;
+}
 
 .navbar-brand {
     font-size: 40px;
