@@ -4,12 +4,6 @@
   width: 100%;
 }
 
-#logo {
-  background: #ccc;
-  width: 150px;
-  height: 70px;
-}
-
 .navbar-toggler {
   margin-top: 15px;
 }
@@ -32,15 +26,16 @@
   }
 }
 
-.navbar {
-    width: auto;
+
+.navbar-brand {
+    font-size: 40px;
 }
 /*----------------------------------------------------header*/
 footer {
     width: auto;
     padding: 0;
     margin: 0;
-    height: 50px;
+    height: 30px;
 }
 
 .nav-item {
