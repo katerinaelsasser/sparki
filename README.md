@@ -87,17 +87,25 @@ want that placed on their website on the home page as well.
 ## Testing
 The user stories that I had at the beginning of this process helped me with
 testing and these became a check list for me.
-Check List
+####Check List
 * As a user, I want to see a page that has all the information to contact the company.
-... This was the contant page, this page shows the phone number, email address and
+...This was the contant page, this page shows the phone number, email address and
 the social media links and also has a form that will go to the company.
 * As a user, I want to click on the navigation, and it will take me to the location
 of that specific page.
+...The navigation at the top of the website has four main links which will take 
+you to the designated web page.
 * As a user, I want to see a clear header and footer layout so it is understandable.
+...The layout of the header and the footer are layed out clearly and nothing is hidden.
 * As a user, I want to click on a page to view all of the services that the company has.
+..I have created a page called Services which shows all of the things the company does. 
 * As a user, I want a page that displays all of the images.
+...I have created a web page called Gallery to that holds all of images that the company
+wants to show.
 * As a user, I want to click a button that will take me to a designated page.
-Below are the tests that I took.
+...I have added multiple buttons through out the website that take you to a contact 
+page as this is where the company wants to customers to go to.
+####Below are the tests that I took.
 * Home Page:
 1. Open up the inspect page
 2. Change the view to mobile (iPhone X or Galaxy S5)
