@@ -7,42 +7,35 @@ Sparki as well as showing what services they do. To see the final outcome I made
 ## UX
 
 #### Surface
-When I started to think of the surface of the website, I started to think about
-the layout, the colours, the typology and the imagery used throughout. The 
-layout has to be simple, not too busy. Easy to follow and to find pages. I drew 
-up [mock ups](https://sparki-website-katerinaelsasser21.c9users.io/mock-up.html) 
-and ideas that I thought was easy to understand. I also took into acount what 
-parts of the websites that i liked and thought worked well. The images that I 
-was going to use were images that are of jobs that the company has done. As 
-well as this, I am using images that are of the members of the team working on 
-jobs. Lastly the typology and colours,the font I chose was readable and the 
-colours I chose were simple as I didn't want these to take the focus away from 
-what the website is intended for.
+I started to think about the layout, the colours, the typology and the imagery 
+used throughout. The layout has to be simple for customers to understand it 
+and easy to find pages. I drew up [mock ups](https://sparki-website-katerinaelsasser21.c9users.io/mock-up.html) 
+and ideas that I thought was easy to understand. I also took into account what 
+parts of the mockups that i liked and worked them into the final outcome. The 
+images that are used are what the company requested to be displayed. Lastly the 
+typology and colours, these have to be clear and readable.
 #### Strategy
-The company want customers to find their contact information and also information
-of the services. Taking this to mind, I want there to be lots of links to the 
-contact page. This website is aimed at customers and I also
-want to aim at businesses that would want to use the company's commercial services.
+The main request from the company is that they want customers to find the contact
+information easily and information of what services Sparki does. 
+Taking this to mind, I want there to be lots of links that take the user to the
+contact page.
 #### Structure
-The layout throughout the website must be informational and have an simple 
-layout. All the information that is on the website is give to myself from the 
-company. Putting myself in the customer's point of view, I 
-want to see all the information that I need layed out clearly and where I 
-can find it easily. The home page will have quick highlights of the website for 
-customers needing a last minute electrician. The content I use throughout the 
+The layout throughout the website must be informative and have an uniform structure. 
+All the information that is on the website is give to myself from the 
+company. The home page will have quick summaries of the other web pages with a 
+button linked to the contact page to take the customers to that page. The content I use throughout the 
 website must be appropriate for customers and 
-businesses. As a customer wanting an electrician, I would view their website 
-via a mobile or small device. Which means the smaller view ports should be easy
-to view. For businesses, I would view the company's website via a computer.
+businesses. As a customer wanting an electrician, I am more likley to look up the 
+page via a small device like a phone. This means the smaller view ports are my 
+priority to be readable.
 #### Skeleton
-The main things about the website that will form the backbone of it are the
-navigation which will be featured on the header and the footer on each html page.
+The main things about the website that will form the backbone are the
+navigation which will be featured on the header on each html page.
 By doing this, it will make the whole webpage look uniform. The only thing that 
 will differ each page will be the section.
 #### Scope
-Research was key for this website as I can see what other competitors have on the
-website and also what they are missing from their website
-I put together all my research on one page, [click here](https://sparki-website-katerinaelsasser21.c9users.io/research.html)
+Research was key for this website as there is competition in the area. I put 
+together all my research on one page, [click here](https://sparki-website-katerinaelsasser21.c9users.io/research.html)
 
 #### User Stories
 * As a user, I want to see a page that has all the information to contact the company.
