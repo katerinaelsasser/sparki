@@ -87,7 +87,7 @@ want that placed on their website on the home page as well.
 ## Testing
 The user stories that I had at the beginning of this process helped me with
 testing and these became a check list for me.
-####Check List
+#### Check List
 * As a user, I want to see a page that has all the information to contact the company.
 ...This was the contant page, this page shows the phone number, email address and
 the social media links and also has a form that will go to the company.
@@ -105,7 +105,7 @@ wants to show.
 * As a user, I want to click a button that will take me to a designated page.
 ...I have added multiple buttons through out the website that take you to a contact 
 page as this is where the company wants to customers to go to.
-####Below are the tests that I took.
+#### Below are the tests that I took.
 * Home Page:
 1. Open up the inspect page
 2. Change the view to mobile (iPhone X or Galaxy S5)
