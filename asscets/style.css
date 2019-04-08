@@ -65,6 +65,10 @@ section {
 p {
     color: #000000;
 }
+
+li {
+    color: #000000;
+}
 /*----------------------------------------------------section*/
 .text-center {
     margin: 0;
@@ -72,10 +76,6 @@ p {
     text-align: center;
 }
 /*----------------------------------------------------home*/
-
-.btn-md {
-    padding: 15px;
-}
 
 .card-body {
     padding: 5px;
