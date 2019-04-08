@@ -61,6 +61,10 @@ section {
 .btn-outline-secondary {
     padding: 15px;
 }
+
+p {
+    color: #000000;
+}
 /*----------------------------------------------------section*/
 .text-center {
     margin-bottom: 0;
