@@ -2,17 +2,24 @@
 -----
 This project is for the company ‘Sparki’ which is a electrician company based 
 in the south of England. The aim of the website is to get those customers to contact 
-Sparki as well as showing what services they do. To see the final outcome I made, [click here](https://sparki-website-katerinaelsasser21.c9users.io/index.html).
+Sparki as well as showing what services they do.
 
 ## UX
 
 #### Surface
 I started to think about the layout, the colours, the typology and the imagery 
 used throughout. The layout has to be simple for customers to understand it 
-and easy to find pages. I drew up [mock ups](https://sparki-website-katerinaelsasser21.c9users.io/mock-up.html) 
-and ideas that I thought was easy to understand. I also took into account what 
+and easy to find pages. I drew up different mockups and ideas that I thought was
+easy to understand. I also took into account what 
 parts of the mockups that i liked and worked them into the final outcome. The 
-images that are used are what the company requested to be displayed. Lastly the 
+images that are used are what the company requested to be displayed. 
+Below are the mockups that I drew.
+![Mobile Mockup 1](https://katerinaelsasser.github.io/sparki/asscets/images/mobile-mockup-1.jpg),
+![Mobile Mockup 2](https://katerinaelsasser.github.io/sparki/asscets/images/mobile-mockup-2.jpg),
+![Desktop Mockup 1](https://katerinaelsasser.github.io/sparki/asscets/images/mock-up-1.jpg) and
+![Desktop Mockup 2](https://katerinaelsasser.github.io/sparki/asscets/images/mock-up-2.jpg).
+
+Lastly the 
 typology and colours, these have to be clear and readable.
 #### Strategy
 The main request from the company is that they want customers to find the contact
