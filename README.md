@@ -166,3 +166,5 @@ Code used throughout the website has been found throughout on Bootstarp, the cou
 The form was inspired by the Bootstrap example called [Checkout](https://getbootstrap.com/docs/4.3/examples/checkout/).
 The photo layout was inspired by the Bootstrap example called [Album](https://getbootstrap.com/docs/4.3/examples/album/).
 The navigation layout was inspired by a example called [Bootstrap 4 Centered Logo Navbar](https://codepen.io/mmgolden/pen/JNewdL)
+
+##### Please note this is for educational use only.
