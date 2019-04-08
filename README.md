@@ -47,7 +47,7 @@ By doing this, it will make the whole webpage look uniform. The only thing that
 will differ each page will be the section.
 #### Scope
 Research was key for this website as there is competition in the area. I put 
-together all my research on one page, [click here](https://sparki-website-katerinaelsasser21.c9users.io/research.html)
+together all my research on one page, [click here](https://katerinaelsasser.github.io/sparki/research.html).
 
 #### User Stories
 * As a user, I want to see a page that has all the information to contact the company.
