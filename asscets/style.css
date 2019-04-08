@@ -67,8 +67,8 @@ p {
 }
 /*----------------------------------------------------section*/
 .text-center {
-    margin-bottom: 0;
-    padding: 20px;
+    margin: 0;
+    padding: 12px;
     text-align: center;
 }
 /*----------------------------------------------------home*/
