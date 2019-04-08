@@ -14,10 +14,15 @@ easy to understand. I also took into account what
 parts of the mockups that i liked and worked them into the final outcome. The 
 images that are used are what the company requested to be displayed. 
 Below are the mockups that I drew.
-![Mobile Mockup 1](https://katerinaelsasser.github.io/sparki/asscets/images/mobile-mockup-1.jpg),
-![Mobile Mockup 2](https://katerinaelsasser.github.io/sparki/asscets/images/mobile-mockup-2.jpg),
-![Desktop Mockup 1](https://katerinaelsasser.github.io/sparki/asscets/images/mock-up-1.jpg) and
-![Desktop Mockup 2](https://katerinaelsasser.github.io/sparki/asscets/images/mock-up-2.jpg).
+----
+![Mobile Mockup 1](https://katerinaelsasser.github.io/sparki/asscets/images/mobile-mockup-1.jpg)
+----
+![Mobile Mockup 2](https://katerinaelsasser.github.io/sparki/asscets/images/mobile-mockup-2.jpg)
+----
+![Desktop Mockup 1](https://katerinaelsasser.github.io/sparki/asscets/images/mock-up-1.jpg)
+----
+![Desktop Mockup 2](https://katerinaelsasser.github.io/sparki/asscets/images/mock-up-2.jpg)
+----
 
 Lastly the 
 typology and colours, these have to be clear and readable.
