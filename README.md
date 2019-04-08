@@ -153,7 +153,13 @@ Go to the contact page
 ## Deployment
 The website was deployed from the master branch and hosted on GitHub pages. 
 When I add new commits to the master branch the website will be updated 
-automatically. 
+automatically. I deployed it by doing the following steps:
+1. Going on to my GitHub page
+2. Clicking on the repository that holds it all
+3. Clicking on the tab called "Settings"
+4. Scrolling all the way down to the section on settings called "GitHub Pages"
+5. Clicking the dropdown that has the title "Source"
+6. I changed my source from "None"to "master branch"
 
 ## Credits
 #### Content
