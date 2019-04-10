@@ -123,6 +123,9 @@ li {
     padding: 5.5px;
     color: #000000;
 }
+.btn-md {
+    width: 60px;
+}
 /*----------------------------------------------------contact*/
 .social-media {
     text-align: right;
